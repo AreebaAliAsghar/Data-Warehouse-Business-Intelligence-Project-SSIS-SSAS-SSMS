@@ -201,8 +201,6 @@ Below are snapshots of the final Power BI dashboard built on top of the ETL pipe
 
 ![Power BI Dashboard 1](bi_pdf1.png)
 
-### Power BI Dashboard – Advanced Analytics
-
 ![Power BI Dashboard 2](bi_pdf2.png)
 
 ---
