@@ -3,10 +3,7 @@
 ## Course Information
 
 **Course:** Data Warehouse & Business Intelligence Lab
-**Instructor:** Dr. Khurram Shahzad
-**Program:** BS Data Science – Fall 2023
 **Term Project:** Fall 2025
-**Teacher Assistants:** Ali Hasan, Shahzeb Ali, Amna Yaseen
 
 ---
 
